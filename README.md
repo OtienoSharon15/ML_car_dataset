@@ -1,2 +1,2 @@
 # ML_car_dataset
-Analyzing car price dataset to uncover key factors influencing selling prices in India.
+This project involved analyzing a car price dataset on Python to uncover key factors influencing selling prices in India. The data contained variables such as the model of the car, year of manufacture, transmission, fuel type, engine capacity, and mileage. I summarized the data, performed data cleaning, handled missing values, performed statistical calculations, visualized the data, and made predictions using various tools, including linear regression. This project ultimately provided practical insights for real-world data applications
